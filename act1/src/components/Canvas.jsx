@@ -27,7 +27,7 @@ const Canvas = () => {
 
     // Neck
     drawRect({
-      fillStyle: colors.head,
+      fillStyle: colors.neck,
       position: { x: 724, y: 214 },
       size: { width: 34, height: 68 },
     });
